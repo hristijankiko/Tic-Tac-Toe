@@ -10,6 +10,7 @@ public class Main extends JFrame {
 		game.setSize(306, 440);
 		game.setVisible(true);
 		game.setResizable(false);
+		// asd
 		
 	}
 
