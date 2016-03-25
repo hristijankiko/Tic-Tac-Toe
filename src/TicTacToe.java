@@ -16,6 +16,7 @@ public class TicTacToe extends JFrame {
 	private int clicks=0;
 	
 	public TicTacToe(){
+		// test
 		super("Tic-tac-toe");
 		setLayout(null);
 		field0 = new JButton();
